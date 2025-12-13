@@ -1,5 +1,45 @@
 # Digital Maturity Assessment Platform
 
+## Application Screenshots
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Home & Landing</h3>
+      <img src="images/home.png" width="100%" alt="Home Page">
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Maturity Dashboard</h3>
+      <img src="images/dashboard heatmap.png" width="100%" alt="Dashboard Heatmap">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Assessment Interface</h3>
+      <img src="images/Assesment.png" width="100%" alt="Assessment Page">
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Bulk Data Upload</h3>
+      <img src="images/upload data.png" width="100%" alt="Upload Data">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Comparative Radar</h3>
+      <img src="images/maturity radar .png" width="100%" alt="Maturity Radar">
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Strategic Roadmap</h3>
+      <img src="images/roadmap.png" width="100%" alt="Roadmap">
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <h3>Contact & Support</h3>
+  <img src="images/contact.png" width="60%" alt="Contact Page">
+</div>
+
 ## Overview
 The **Digital Maturity Assessment Platform** is an enterprise analytics tool designed to help organizations benchmark their digital readiness. It provides a centralized interface to evaluate departments across five critical dimensions: **Technology, Culture, Process, Skills, and Risk**.
 
