@@ -68,7 +68,7 @@ This repository contains the source code for the Streamlit-based web application
     Ensure you have Python 3.8+ installed.
     ```bash
     pip install -r requirements.txt
-# Or manually: pip install streamlit pandas plotly fpdf kaleido
+    # Or manually: pip install streamlit pandas plotly fpdf kaleido
     ```
 
 ## Usage
